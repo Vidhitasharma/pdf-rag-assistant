@@ -1,0 +1,2 @@
+# --- Install required packages ---
+!pip install langchain langchain-core langchain-community langchain-huggingface chromadb transformers torch PyPDF2 sentencepiece langchain-groq gradio
